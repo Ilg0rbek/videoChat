@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.homepage-container{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+}
+.input-container input{
+   font-size: 24px;
+   display: block;
+   padding: 9px 20px;
+   margin-bottom: 10px;
+}
+.input-container button{
+    font-size: 24px;
+    display: block;
+    width: 100%;
+    padding: 9px 20px;
+    cursor: pointer;
+ }
